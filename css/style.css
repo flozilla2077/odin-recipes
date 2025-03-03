@@ -1,0 +1,61 @@
+* {
+    font-family: arial, verdana, helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.headline {
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+ul {
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgb(255, 0, 0);
+}
+
+ul li {
+    color: rgb(0, 0, 0);
+
+}
+
+a:link {
+    color: blueviolet;
+
+}
+
+a:hover {
+    font-size: 20px;
+
+}
+
+a:visited {
+    color: brown;
+
+}
+
+img {
+    width: 50px;
+    height: auto;
+
+}
+
+ol {
+    background: #ffe2e2;
+    padding: 20px;
+    margin-left: 30px;
+  }
+
+ol li {
+    background: #fc8585;
+    padding: 2px;
+}
